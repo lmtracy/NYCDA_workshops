@@ -1,0 +1,57 @@
+body {
+    background-image: url("bewks.jpg");
+    width: 100%;
+    background-repeat: no repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+}
+
+#info {
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
+
+ul {
+    position: relative;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    list-style-type: none;
+    text-align: left;
+}
+
+img {
+    height: 90%;
+    position: relative;
+    float: left;
+    padding: 10px;
+}
+
+button {
+    background-color: rgb(56, 94, 14);
+    padding: 8px;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: black;
+}
+
+input {
+    width: 50%;
+    padding: 5px;
+}
